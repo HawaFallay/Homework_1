@@ -1,7 +1,10 @@
 # Homework_1
 ### By Hawa 
 
-First assignment of the course.
+Description
+
+Website for Digital Marketing company Horiseon.
+
 
 Front end
   HTML
