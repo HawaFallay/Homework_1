@@ -1,19 +1,18 @@
-# Homework_1
-### By Hawa 
-TITLE:
+# TITLE
 Homework Assignment 1
+# DESCRIPTION
+This assignment was to learn about accesibility and leaving code
+cleaner than we found it. Adjustments and edits were made while maintaing the integrity
+of the code. Website for Digital Marketing company Horiseon.
 
-DESCRIPTION
 
-Website for Digital Marketing company Horiseon.
-
-
-FRONT END
+# FRONT END TECHNOLOGIES USED
   HTML
   CSS
   JAVA
 
-  LINK:
+# LINK
+
 <link> https://hawafallay.github.io/Homework_1/ </link>
 
 SCREEN SHOTS:
