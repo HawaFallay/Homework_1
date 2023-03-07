@@ -6,23 +6,23 @@
     padding: 0;
     margin: 0;
 }
-
+/*The background color for the entire page*/
 body {
     background-color: #d9dcd6;
 }
-
+/* color, size, and font of the top header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*font size and style of the title*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*'seo' color in header*/
 .header h1 .seo {
     color: #d9dcd6;
 }
